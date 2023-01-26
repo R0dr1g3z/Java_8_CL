@@ -1,4 +1,4 @@
-package com.example.designpatterns;
+package com.example.designpatterns.fabric;
 
 public class VirtualProduct implements Product {
 

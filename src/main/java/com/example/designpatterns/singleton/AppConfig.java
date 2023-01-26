@@ -1,4 +1,4 @@
-package com.example.designpatterns;
+package com.example.designpatterns.singleton;
 
 public class AppConfig {
     private static AppConfig INSTACE;
