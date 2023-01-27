@@ -15,8 +15,6 @@ public class Main04 {
     }
 
     public static void printNames(List<String> names){
-        for (String s : names){
-            System.out.println(s);
-        }
+        names.forEach(n -> System.out.println(n));
     }
 }
